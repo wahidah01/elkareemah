@@ -1,6 +1,6 @@
 +++
 title = "Samsung Galaxy A8"
-date = "2015-06-24T13:50:46+02:00"
+date = "2019-06-02T13:50:46+02:00"
 author = "Abdul"
 tags = ["A8"]
 categories = ["Samsung"]
@@ -8,7 +8,7 @@ banner = "banners/Samsung.png"
 # slider = true
 +++
 
-![Samsung S8](/banners/Samsung.png)
+![Samsung A8](/banners/Samsung.png)
 ## Spesifikasi
 
 * GSM / HSPA / LTE

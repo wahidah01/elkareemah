@@ -1,21 +1,22 @@
 +++
-title = "Samsung Galaxy J5"
-date = "2015-10-02T21:49:20+02:00"
-tags = ["J5"]
-categories = ["Samsung"]
+title = "Xiaomi Redmi Note 4"
+date = "2019-06-08T21:49:20+02:00"
+author = "Abdul"
+tags = ["Redmi Note 4"]
+categories = ["Xiaomi"]
 # menu = "main"
-banner = "banners/Samsung-J5.png"
+banner = "banners/redmi-note4.png"
 +++
 
-![Samsung J5](/banners/Samsung-J5.png")
+![Xiaomi Note 4](/banners/redmi-note4.png")
 ## Spesifikasi
 
 * GSM / HSPA / LTE
-* SIM	Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)
-* Internal	8 / 16 GB, 1.5 GB RAM
-* Camera belakang	Single	13 MP,
-* Camera depan	Single	5 MP
-* Battery	Removable Li-Ion 2600 mAh battery
+* SIM Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)
+* Internal  64 GB, 4 GB RAM or 32 GB, 3 GB RAM
+* Camera belakang Single  13 MP,
+* Camera depan  Single  5 MP
+* Battery Non-removable Li-Po 4100 mAh battery
 
 [![Chat, Beli](/order.png)](https://api.whatsapp.com/send?phone=6282339144758&text=Mas%20saya%20ingin%20order%20apakah%20bisa?
-)
+)	
