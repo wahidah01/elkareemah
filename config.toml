@@ -82,7 +82,7 @@ DisqusShortname = "elkareemah"
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    rss             = "Needed" # leave this to blank if you do not want RSS feed icon to appear on top
+    rss             = "" # leave this to blank if you do not want RSS feed icon to appear on top
     github          = ""
     flickr          = ""
     instagram       = ""
@@ -100,7 +100,7 @@ DisqusShortname = "elkareemah"
 [params.widgets]
     recent_articles = true
     categories = true
-    tags = false
+    tags = true
     tag_cloud = false
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
     search = false
