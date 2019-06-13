@@ -6,6 +6,7 @@ tags = ["S5"]
 categories = ["Samsung"]
 # menu = "main"
 banner = "banners/s5.png"
+nodateline = true
 +++
 
 ![Samsung S5](/banners/s5.png")

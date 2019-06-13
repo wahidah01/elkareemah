@@ -5,6 +5,7 @@ author = "Abdul"
 tags = ["A8"]
 categories = ["Samsung"]
 banner = "banners/Samsung.png"
+nodateline = true
 # slider = true
 +++
 

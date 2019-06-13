@@ -6,6 +6,7 @@ tags = ["Redmi Note 3"]
 categories = ["Xiaomi"]
 # menu = "main"
 banner = "banners/xiaomi-note3.png"
+nodateline = true
 +++
 
 ![Xiaomi Note 3](/banners/xiaomi-note3.png")
